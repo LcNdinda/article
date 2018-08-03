@@ -1,0 +1,64 @@
+.introduction{
+  color: #5D4037;
+  font-style: italic;
+}
+.introduction{
+  color: #FF6D00;
+}
+.introduction{
+
+}
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.cat-climate {
+  background-color: yellow;
+}
+
+h1{
+  text-align: center;
+  color: #0091EA;
+}
+.Personal{
+  color: #01579B;
+}
+.year{
+  color: #01579B;
+}
+.skill{
+  color: #01579B;
+}
+.hobby{
+  color: #01579B;
+}
+h2{
+  text-decoration: underline;
+  font-style: italic;
+}
+img.mango{
+  float: left;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.column{
+  width: 450px;
+  float: left;
+}
+.events-sidebar{
+  background-color: #FF1744;
+  width: 30%;
+  float: left;
+}
+img.about{
+  float: left;
+}
+.column1{
+  float: left;
+  width: 400px;
+}
